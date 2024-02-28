@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T06:51:05.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="GV6uzpcFqauZdtp7aK7D" version="23.1.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-28T06:51:41.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="eFa0NhFZ9JkslRtL0x28" version="23.1.7" type="github" pages="5">
   <diagram name="Level 0" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="936" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -251,10 +251,13 @@
         <mxCell id="xns8HrLym-QFNCtqA5fl-0" value="Hitung Product to Order" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="_2PXvgAP1VzAHofBElRw-3">
           <mxGeometry x="85" y="130" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="HVH7fmDtIgsjb07oU-kj-0" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="_2PXvgAP1VzAHofBElRw-3" source="FGLcwa-euz3myOHcqDtp-1" target="FGLcwa-euz3myOHcqDtp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FGLcwa-euz3myOHcqDtp-1" value="Create PO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="_2PXvgAP1VzAHofBElRw-3">
           <mxGeometry x="85" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FGLcwa-euz3myOHcqDtp-3" value="Receive RM" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="_2PXvgAP1VzAHofBElRw-3">
+        <mxCell id="FGLcwa-euz3myOHcqDtp-3" value="Storage" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="_2PXvgAP1VzAHofBElRw-3">
           <mxGeometry x="85" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2SxeuDQXv64PsFOTSqyA-5" value="Lane 1" style="swimlane;html=1;startSize=20;" vertex="1" parent="_2PXvgAP1VzAHofBElRw-2">
