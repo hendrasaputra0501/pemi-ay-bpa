@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T03:41:44.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="lkaNw-t232lN7wdkY0jT" version="23.1.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-08T06:22:33.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="l-ByC2KbIPEA7ALw8fnx" version="24.0.2" type="github" pages="5">
   <diagram name="Level 0" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="1101" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Lvl 1 Ordering" id="W9c1qYGY5lm9KQ5LIHxp">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="mdwiT-TP9fqzYiPBIGFQ-0" />
         <mxCell id="mdwiT-TP9fqzYiPBIGFQ-1" parent="mdwiT-TP9fqzYiPBIGFQ-0" />
@@ -78,7 +78,7 @@
         <mxCell id="5euzlT3wxImzgpiff3Ed-1" value="Input Forecest Order" style="ellipse;whiteSpace=wrap;html=1;" parent="mdwiT-TP9fqzYiPBIGFQ-3" vertex="1">
           <mxGeometry x="65" y="50" width="95" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5euzlT3wxImzgpiff3Ed-2" value="Input Order" style="ellipse;whiteSpace=wrap;html=1;" parent="mdwiT-TP9fqzYiPBIGFQ-3" vertex="1">
+        <mxCell id="5euzlT3wxImzgpiff3Ed-2" value="Input Daily Order" style="ellipse;whiteSpace=wrap;html=1;" parent="mdwiT-TP9fqzYiPBIGFQ-3" vertex="1">
           <mxGeometry x="75" y="170" width="85" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mdwiT-TP9fqzYiPBIGFQ-11" value="PIC Order" style="swimlane;html=1;startSize=20;" parent="mdwiT-TP9fqzYiPBIGFQ-2" vertex="1">
@@ -150,7 +150,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Lvl 2 Input Forcast Order" id="BIxcvdkQYd5N3HHtNd9L">
-    <mxGraphModel dx="936" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="KvYDoRurw_s-5osgE2jf-0" />
         <mxCell id="KvYDoRurw_s-5osgE2jf-1" parent="KvYDoRurw_s-5osgE2jf-0" />
@@ -220,8 +220,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Lvl 1 Receive Material" id="gTXkGGSfoHHTIW3ptEjs">
-    <mxGraphModel dx="936" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+  <diagram name="Lvl 1 Receiving" id="gTXkGGSfoHHTIW3ptEjs">
+    <mxGraphModel dx="936" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="_2PXvgAP1VzAHofBElRw-0" />
         <mxCell id="_2PXvgAP1VzAHofBElRw-1" parent="_2PXvgAP1VzAHofBElRw-0" />
@@ -242,7 +242,7 @@
             <mxPoint x="125" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_2PXvgAP1VzAHofBElRw-8" value="Receive&lt;br&gt;Order" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="_2PXvgAP1VzAHofBElRw-3" vertex="1">
+        <mxCell id="_2PXvgAP1VzAHofBElRw-8" value="Ordering" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="_2PXvgAP1VzAHofBElRw-3" vertex="1">
           <mxGeometry x="95" y="40" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FGLcwa-euz3myOHcqDtp-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="_2PXvgAP1VzAHofBElRw-3" source="xns8HrLym-QFNCtqA5fl-0" target="FGLcwa-euz3myOHcqDtp-1" edge="1">
@@ -273,7 +273,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Lvl 2 Hitung Product to Order" id="C2kOvMB-H5jOtd88MGGu">
-    <mxGraphModel dx="936" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="Pyc6qGp_Ed93_QX8qGbk-0" />
         <mxCell id="Pyc6qGp_Ed93_QX8qGbk-1" parent="Pyc6qGp_Ed93_QX8qGbk-0" />
